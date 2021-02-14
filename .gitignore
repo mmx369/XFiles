@@ -1,0 +1,5 @@
+/.idea
+/node_modules
+/build
+copy-to-server.sh
+.DS_Store
